@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Susan Navarro Smelcer"
+title                    : "Susan Navarro Smelcer"
 title_separator          : "-"
 name                     : &name "Susan Navarro Smelcer"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Susan Navarro Smelcer"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Law, Georgia State University College of Law; Postdoctoral Fellow, Wake Forest University"
+  bio              : "Assistant Professor of Law, Georgia State University College of Law;\n Postdoctoral Fellow, Wake Forest University"
   location         : "Winston-Salem, NC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
