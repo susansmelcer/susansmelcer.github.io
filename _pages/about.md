@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Law at Georgia State University College of Law (currently on professional leave as a Postdoctoral Fellow in Wake Forest University's Department of Politics and International Affairs. My research is  motivated by my desire to understand how we can use both legal and social science methods and tools to describe, explain, and evaluate judicial and regulatory behavior. This work reflects both my training as a legal scholar and political scientist with expertise in quantitative methods and computational text analysis. 
+I am an Assistant Professor of Law at Georgia State University College of Law (currently on professional leave as a Postdoctoral Fellow in Wake Forest University's Department of Politics and International Affairs). I have a Ph.D. in Political Science from Emory University and a J.D. from New York University. 
+
+My research is  motivated by my desire to understand how we can use both legal and social science methods and tools to describe, explain, and evaluate judicial and regulatory behavior. This work reflects both my training as a legal scholar and political scientist with expertise in quantitative methods and computational text analysis. 
 
 My legal scholarship primarily examines the effects of the Securities and Exchange Commission’s (SEC) disclosure-based regulatory framework on mutual fund disclosures through a quantitative lens. In a series of recent projects, My colleagues at Georgia State and I have developed text-based measures to evaluate funds’ compliance with the SEC’s principles-based disclosure regime. 
 
